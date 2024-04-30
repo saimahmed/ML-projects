@@ -1,4 +1,8 @@
 # ML-projects
+Sprints done with Clicked -IBM Skills Build
+
+Predicting Attrition rate for Bain and Company from the HR Dataset
+
 Experience Overview
 In this mini sprint, you will step into the shoes of a data analyst tasked with implementing predictive analytics techniques to address a pressing issue within a company. Your role will involve understanding and selecting the best supervised machine learning model to make accurate predictions, providing invaluable insights that will guide the company in making strategic business decisions.
 
